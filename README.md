@@ -1,36 +1,36 @@
 | Tape                      | Index | LAP6
 | ------------------------- | ----- | ----
-| 12may81-master.linc       | 426   |
-| 1969-lap6-tv-chann-2.linc | 426   |
-| 1971_ulind.linc           | 426   |
-| AJH-LAP6-A.linc           | 426   |
-| AJH-LAP6-B.linc           | 426   |
-| AJH-LAP6-demo.linc        | 426   |
-| AJH-tape-1.linc           | -     |
-| AJH-tape-2.linc           | -     |
-| AJH-worktape-77.linc      | 426   |
-| GCJ-seq1.linc             | -     |
-| GCJ2-inttest.linc         | 426   |
-| GCJ3_ASR-33.linc          | 426   |
-| JANC.linc                 | 426   |
-| LAP6-backup.linc          | -     |
-| Moore_V.E.backup.linc     | 426   |
-| TT2400.linc               | 426   |
-| ajh-lap6-a.dsk512         | 426   |
-| arith.linc                | 426   |
-| cuddly-peter-clark.linc   | 426   |
-| cuddly-sim-file.linc      | 426   |
-| demotape2.dsk512          | 426   |
-| game-tape.linc            | 426   |
-| lab_code_1979.linc        | 426   |
-| lap6-3l.linc              | *326* |
-| lap6-mymaster.linc        | 426   |
-| lap6-with-l54.linc        | *326* |
-| lap6a-3l.linc             | *326* |
-| music-lap6.4.linc         | 426   |
-| music.linc                | 426   |
-| music0.linc               | 426   |
-| new_programs.linc         | 426   |
-| simbc-backup.linc         | 426   |
-| tfftmod.linc              | 426   |
-| xtlk_data.linc            | -     |
+| 12may81-master.linc       | 426   | 300
+| 1969-lap6-tv-chann-2.linc | 426   | 300
+| 1971_ulind.linc           | 426   | 300
+| AJH-LAP6-A.linc           | 426   | 300
+| AJH-LAP6-B.linc           | 426   | 300
+| AJH-LAP6-demo.linc        | 426   | 300
+| AJH-tape-1.linc           | -     | -
+| AJH-tape-2.linc           | -     | -
+| AJH-worktape-77.linc      | 426   | 300
+| GCJ-seq1.linc             | -     | -
+| GCJ2-inttest.linc         | 426   | 300
+| GCJ3_ASR-33.linc          | 426   | 300
+| JANC.linc                 | 426   | 300
+| LAP6-backup.linc          | -     | 300
+| Moore_V.E.backup.linc     | 426   | 300
+| TT2400.linc               | 426   | 300
+| ajh-lap6-a.dsk512         | 426   | 300
+| arith.linc                | 426   | 300
+| cuddly-peter-clark.linc   | 426   | 300
+| cuddly-sim-file.linc      | 426   | 300
+| demotape2.dsk512          | 426   | 300
+| game-tape.linc            | 426   | 300
+| lab_code_1979.linc        | 426   | 300
+| lap6-3l.linc              | 326   | 200
+| lap6-mymaster.linc        | 426   | 300
+| lap6-with-l54.linc        | 326   | 200 and 300?
+| lap6a-3l.linc             | 326   | 200
+| music-lap6.4.linc         | 426   | 300
+| music.linc                | 426   | 300
+| music0.linc               | 426   | 300
+| new_programs.linc         | 426   | 300
+| simbc-backup.linc         | 426   | 300
+| tfftmod.linc              | 426   | 300
+| xtlk_data.linc            | -     | -
