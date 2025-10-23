@@ -23,10 +23,10 @@
 | demotape2.dsk512          | 426   |
 | game-tape.linc            | 426   |
 | lab_code_1979.linc        | 426   |
-| lap6-3l.linc              | *326* |
+| lap6-3l.linc              | *326* | 200?
 | lap6-mymaster.linc        | 426   |
-| lap6-with-l54.linc        | *326* |
-| lap6a-3l.linc             | *326* |
+| lap6-with-l54.linc        | *326* | ~~300?~~ 200?
+| lap6a-3l.linc             | *326* | 200?
 | music-lap6.4.linc         | 426   |
 | music.linc                | 426   |
 | music0.linc               | 426   |
