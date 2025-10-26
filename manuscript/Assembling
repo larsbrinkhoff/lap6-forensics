@@ -1,0 +1,26 @@
+1. MSDISPLY	10	340	300	(23 sheets)
+
+2. MSDISPLY	1	343	324
+   ADDMS LO				(6 sheets)
+
+3. FILECOMS	4	340	320	(13 sheets)
+
+4. COPYFILE	3	340	314	(13 sheets)
+
+5. COPY		2	340	336	(10 sheets)
+
+6. CONVERT	3	340	330	(22 sheets)
+
+7. CV DIS	2	340	310	(9 sheets)
+
+8. DISX PX	2	340	325	(10 sheets)
+   TELETYPE
+
+9. PRINT MS	1	342	322	(4 sheets)
+   TELETYPE
+
+10. LIST	1       341	333	(15 sheets)
+    TELETYPE	1	342     327	(5 sheets)
+		1	343	335
+                2	346	312
+                1	346	317

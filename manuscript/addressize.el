@@ -1,0 +1,16 @@
+
+(defun addressize (address)
+  (dotimes (i 57)
+    (cond ((looking-at "^[0-7][0-7][0-7][0-7] [0-7][0-7][0-7][0-7] ")
+           (delete-char 5)
+           (insert (format "%04o " address))
+           (incf address))
+          ((looking-at "^[0-7][0-7][0-7][0-7] [# ]")
+           (insert (format "%04o " address))
+           (incf address))
+          ((looking-at "^          "))
+          ((looking-at "^     ")
+           (insert "     ")))
+    (beginning-of-line)
+    (next-line)))
+    

@@ -1,0 +1,11 @@
+     [LAP6 CONVERT
+     [BLOCKS 330-332
+     [QUARTERS 0-2
+     [PASS II
+         @15
+0701     RCG 7E
+1310     1|7D+10 [DISPLAY
+0016     NOP
+0720     RDC i 7E
+2347     2|7D+47 [BIN TO Q2
+6314 #2Z JMP 3A
