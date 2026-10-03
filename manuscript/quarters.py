@@ -20,14 +20,14 @@ def parse(line):
 if __name__ == "__main__":
     start = oct(sys.argv[1]) * 0o400
     if len(sys.argv) > 2:
-        end = oct(sys.argv[2]) * 0o400
+        length = oct(sys.argv[2]) * 0o400
     else:
-        end = start + 0o400
+        length = 0o400
 
     for line in sys.stdin:
         parse(line)
 
-    for i in range(start, end):
+    for i in range(start, start + length):
         x1 = image[i] & 0xFF
         x2 = image[i] >> 8
         sys.stdout.buffer.write(bytes([x1, x2]))
