@@ -76,13 +76,8 @@ quarters 3 335
 quarters "6 2" 312
 quarters 6 317
 
-magic() {
-    #2065 5712
-    printf '+@\032\012'
-}
-
 save_manuscript() {
-    (magic; columns 11- "$1" | sed 's/^    //') | filing sm "$1"
+    (columns 11- "$1" | sed 's/^    //') | filing sm "$1"
 }
 
 save_manuscript "MSDISPLY"
