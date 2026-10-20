@@ -1,11 +1,15 @@
 #!/bin/sh
 
+set -e
+
 ASSEMBLER="$HOME/src/lap6/lap6.py"
 FILING="$HOME/src/lap6/lap6"
 TAPE="fresh-lap6.linc"
 
 filing() {
-    "$FILING" "$1" "$TAPE" "$2" "$3"
+    command="$1"
+    shift
+    "$FILING" "$command" "$TAPE" "$@"
 }
 
 columns() {
